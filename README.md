@@ -1,0 +1,1 @@
+Client files adapted from [phaser-multiplayer-game](https://github.com/xicombd/phaser-multiplayer-game).
